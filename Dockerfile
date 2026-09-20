@@ -7,4 +7,4 @@ ENV ACCEPT_EULA=Y
 EXPOSE 1433
 
 # 启动 SQL Server
-CMD ["/opt/mssql/bin/sqlservr"]
+# CMD ["/opt/mssql/bin/sqlservr"]
